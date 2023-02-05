@@ -1,5 +1,5 @@
 # Simon Convent
-More info on my website at [convent.dev](convent.dev)
+More info on my website at [convent.dev](https://convent.dev)
 
 🏠 Living in Cologne, Germany
 
